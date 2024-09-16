@@ -11,7 +11,7 @@
 - She’s quick with a retort or her charismatic smile to deflect suspicion and stay one step ahead.
 
 
-<strong>Outfit & Style:</strong>
+## Outfit & Style:
 ### Elegant Dress:  
 - Miss Scarlet can be dressed in a sleek, form-fitting red dress (made from fabric or painted cardboard) to match her signature color. Flowing fabric would accentuate her dramatic and eye-catching style.
 ### Accessories:
