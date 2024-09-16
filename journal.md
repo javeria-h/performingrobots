@@ -12,7 +12,7 @@
 
 
 ## Outfit & Style:
-### Elegant Dress:  
+### Dress:  
 - Miss Scarlet can be dressed in a sleek, form-fitting red dress (made from fabric or painted cardboard) to match her signature color. Flowing fabric would accentuate her dramatic and eye-catching style.
 ### Accessories:
 - Long red gloves and a feathered red hat or maybe a hairpiece to give her a sense of elegance.
@@ -30,3 +30,6 @@
 ### Additional Features:
 - Smoke Effect: She could have a mini fog or smoke machine to create a sense of mystery when she moves or speaks.
 - Eyes or Jewelry that Light Up: LED-enhanced earrings or bracelets that glow when she’s engaged in "manipulation," or perhaps glowing eyes that shift colors to show her thinking or scheming.
+### Sketch:
+
+
