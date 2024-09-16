@@ -25,8 +25,8 @@
 - Long, flowing,hair (made of yarn or perhaps just a wig) in a dark color, with streaks for added flair.
 ### Special Features:
 - Fan for Dramatic Wind: A small hidden fan could blow air at her hair or dress for that dramatic “movie moment” effect.
-- Hidden Compartments: Since she thrives on secrets,we could maybe design a secret compartment within her base or outfit, which could open to reveal a hidden object (perhaps a lipstick or a secret note?).
+- Hidden Compartments: Since she thrives on secrets, we could maybe design a secret compartment within her base or outfit, which could open to reveal a hidden object (perhaps a lipstick or a secret note?).
 - Movable Arms: Has flexible, jointed arms that can be posed in a dramatic way, perhaps holding a fan or something to add to her persona.
 ### Accessories:
-- Smoke Effect: Similar to Professor Plum, she could have a mini fog or smoke machine to create a sense of mystery when she moves or speaks.
+- Smoke Effect: She could have a mini fog or smoke machine to create a sense of mystery when she moves or speaks.
 - Eyes or Jewelry that Light Up: LED-enhanced earrings or bracelets that glow when she’s engaged in "manipulation," or perhaps glowing eyes that shift colors to show her thinking or scheming.
