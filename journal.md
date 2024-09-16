@@ -4,10 +4,11 @@
 ## Robot: Miss Scarlet
 ### Trope:
 *Femme Fatale</br>* 
-Glamorous and cunning, Miss Scarlet uses her charm and sharp wit to manipulate others while keeping her own secrets guarded. She thrives on drama and intrigue, with a knack for getting people to reveal their weaknesses.
-Known for her confidence and style, she is always dressed in striking reds, catching the eye of anyone in the room.
-Behind her composed and charming exterior lies a fiercely ambitious personality willing to do whatever it takes to get ahead.
- She’s quick with a retort or her charismatic smile to deflect suspicion and stay one step ahead.
+
+- Glamorous and cunning, Miss Scarlet uses her charm and sharp wit to manipulate others while keeping her own secrets guarded. She thrives on drama and intrigue, with a knack for getting people to reveal their weaknesses.
+- Known for her confidence and style, she is always dressed in striking reds, catching the eye of anyone in the room.
+- Behind her composed and charming exterior lies a fiercely ambitious personality willing to do whatever it takes to get ahead.
+- She’s quick with a retort or her charismatic smile to deflect suspicion and stay one step ahead.
 
 
 Outfit & Style:
