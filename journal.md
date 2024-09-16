@@ -31,5 +31,7 @@
 - Smoke Effect: She could have a mini fog or smoke machine to create a sense of mystery when she moves or speaks.
 - Eyes or Jewelry that Light Up: LED-enhanced earrings or bracelets that glow when she’s engaged in "manipulation," or perhaps glowing eyes that shift colors to show her thinking or scheming.
 ### Sketch:
+![WhatsApp Image 2024-09-16 at 9 03 30 PM](https://github.com/user-attachments/assets/f4c25ff1-b1af-464f-9424-bc7aee002e80)
+
 
 
