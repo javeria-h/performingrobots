@@ -33,5 +33,11 @@
 ### Sketch:
 ![WhatsApp Image 2024-09-16 at 9 03 30 PM](https://github.com/user-attachments/assets/f4c25ff1-b1af-464f-9424-bc7aee002e80)
 
+# Journal Entry #2: Hind & Javeria 
+# 20 September 2024
+On Thursday, we worked on building the base of our robot. We started by extending the motor wires, soldering additional wire to make them longer. After we finished soldering the wires, we moved on to the wheels. The first step here was attaching the rubber tires to the plastic wheels. Once we had the wheels ready, we used hubs to attach the motors to them. We also applied brackets to the motors, which helped secure them to the base later. After that, we assembled the plastic wheels onto the motors, fastening everything with nuts, bolts and washers. Using a screwdriver, we tightened everything down to ensure a solid connection between the motors and the wheels. We double checked all the screws and bolts to make sure nothing was loose before moving on.
+
+With the motors and wheels assembled, we started planning how everything would fit onto the baseboard. We took careful measurements, finding the center of the board and positioning the motor-powered wheels on either side for balance. The regular wheels were positioned at the top and bottom of the board to provide extra stability and support for the structure. Once we had everything mapped out, I drilled the hole in the center of the board as the first step in securing the wheels to the base. There are still a few more holes to drill before we can fully attach the wheels, but we made solid progress in mapping out and preparing for the next steps. The remaining holes will be drilled soon, and then we’ll be able to attach the wheels securely to the base.
+
 
 
