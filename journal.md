@@ -39,5 +39,11 @@ On Thursday, we worked on building the base of our robot. We started by extendin
 
 With the motors and wheels assembled, we started planning how everything would fit onto the baseboard. We took careful measurements, finding the center of the board and positioning the motor-powered wheels on either side for balance. The regular wheels were positioned at the top and bottom of the board to provide extra stability and support for the structure. Once we had everything mapped out, I drilled the hole in the center of the board as the first step in securing the wheels to the base. There are still a few more holes to drill before we can fully attach the wheels, but we made solid progress in mapping out and preparing for the next steps. The remaining holes will be drilled soon, and then we’ll be able to attach the wheels securely to the base.
 
+# Journal Entry #3: Hind & Javeria 
+# 26 September 2024
 
+This week, after drilling the four holes to attach each motor bracket to the wood board, we secured the motors using M4 nuts and 30mm bolts. We made sure everything was aligned correctly before fastening, using a screwdriver and a socket wrench to tighten everything down. The bolts were 30mm long, so they provided a secure fit and we ensured the motors were attached firmly enough to stay stable when the robot moves.
 
+Next, we focused on the caster wheels. Since the robot needs to move freely, we cut a piece of wood into two and then attached those small wooden blocks to the board first and then mounted the caster wheels onto the block. This setup allows the board to have the flexibility and "wiggle" needed for maneuverability, rather than being overly stable, so the robot can turn and move smoothly. Without this flexibility, the base would be too rigid, making navigation difficult. 
+
+After finalizing the wheel setup, we moved on to the battery attachment process. We chose the middle-left side of the board as the best spot to mount the battery because it would balance the weight and leave enough space for the other components. We drilled four holes around this area and secured the battery in place using zip ties. The zip ties gave it a snug fit but also allow for easy adjustments if needed later on.
