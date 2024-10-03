@@ -47,3 +47,7 @@ This week, after drilling the four holes to attach each motor bracket to the woo
 Next, we focused on the caster wheels. Since the robot needs to move freely, we cut a piece of wood into two and then attached those small wooden blocks to the board first and then mounted the caster wheels onto the block. This setup allows the board to have the flexibility and "wiggle" needed for maneuverability, rather than being overly stable, so the robot can turn and move smoothly. Without this flexibility, the base would be too rigid, making navigation difficult. 
 
 After finalizing the wheel setup, we moved on to the battery attachment process. We chose the middle-left side of the board as the best spot to mount the battery because it would balance the weight and leave enough space for the other components. We drilled four holes around this area and secured the battery in place using zip ties. The zip ties gave it a snug fit but also allow for easy adjustments if needed later on.
+
+# Questions for Presentations 
+1. If we embraced the fact that robots aren't human and stopped trying to make them look realistic, could they offer new ways of engaging audiences in performance—perhaps through more abstract or futuristic storytelling techniques?
+2. When watching a robot perform, do you think the audience’s knowledge that it’s a machine impacts how they feel about the performance? Would the emotional impact be different if they didn’t know it was a robot?
