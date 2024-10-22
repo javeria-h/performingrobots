@@ -57,8 +57,18 @@ After finalizing the wheel setup, we moved on to the battery attachment process.
 # 17 & 22 October 2024
 This week was all about getting the motor and Arduino mounted on the base and wiring everything together. We started by attaching the motor and Arduino (with the motor shield) to the base, and to keep things secure, we drilled two diagonal holes underneath the Arduino and motor shield and screwed them in place. It was a bit tricky to get the placement right, but it feels solid now.
 
-Next up was soldering. We soldered wires and header pins to the L298 board (which is the motor controller), then soldered header pins to the Arduino shield. After that, we moved on to soldering the wires from the L298 board to the Hobby RC and Motor Controller. It took some time, but the connections look clean. Once we were sure everything was set up properly, we secured all the boards onto the base.
+![IMG_2009](https://github.com/user-attachments/assets/f0635143-76e6-4b32-885e-b2f9cea4252c)
+
+Next up was soldering. We soldered wires and header pins to the L298 board (which is the motor controller), then soldered header pins to the Arduino shield. After that, we moved on to soldering the wires from the L298 board to the Hobby RC and Motor Controller. It took some time, but the connections look clean.
+
+![IMG_2010](https://github.com/user-attachments/assets/c9618504-ce8b-4168-83d9-4d9418b4e11c)![IMG_2011](https://github.com/user-attachments/assets/42e96d9b-f1bc-4c88-805e-e9cdba7a6e63)
+
+Once we were sure everything was set up properly, we secured all the boards onto the base.
+
+![IMG_2120](https://github.com/user-attachments/assets/77b9298e-1917-4331-92ea-1dea14daec47)
 
 Finally, we worked on wiring the motors. We had to unscrew a few things to get the motor connections sorted out, but eventually, we wired the motors to the L298 H-Bridge and connected the H-Bridge to the battery. 
+
+![IMG_2122](https://github.com/user-attachments/assets/c6307062-d0f8-4c8d-adc6-d96c9579244f)
 
 Now that everything is secured and wired up, the next step is testing the motor connections to make sure it all works as planned.
