@@ -51,3 +51,14 @@ After finalizing the wheel setup, we moved on to the battery attachment process.
 # Questions for Presentations 
 1. If we embraced the fact that robots aren't human and stopped trying to make them look realistic, could they offer new ways of engaging audiences in performance—perhaps through more abstract or futuristic storytelling techniques?
 2. When watching a robot perform, do you think the audience’s knowledge that it’s a machine impacts how they feel about the performance? Would the emotional impact be different if they didn’t know it was a robot?
+
+
+# Journal Entry #4: Hind & Javeria 
+# 17 & 22 October 2024
+This week was all about getting the motor and Arduino mounted on the base and wiring everything together. We started by attaching the motor and Arduino (with the motor shield) to the base, and to keep things secure, we drilled two diagonal holes underneath the Arduino and motor shield and screwed them in place. It was a bit tricky to get the placement right, but it feels solid now.
+
+Next up was soldering. We soldered wires and header pins to the L298 board (which is the motor controller), then soldered header pins to the Arduino shield. After that, we moved on to soldering the wires from the L298 board to the Hobby RC and Motor Controller. It took some time, but the connections look clean. Once we were sure everything was set up properly, we secured all the boards onto the base.
+
+Finally, we worked on wiring the motors. We had to unscrew a few things to get the motor connections sorted out, but eventually, we wired the motors to the L298 H-Bridge and connected the H-Bridge to the battery. 
+
+Now that everything is secured and wired up, the next step is testing the motor connections to make sure it all works as planned.
