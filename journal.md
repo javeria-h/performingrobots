@@ -74,7 +74,7 @@ Finally, we worked on wiring the motors. We had to unscrew a few things to get t
 Now that everything is secured and wired up, the next step is testing the motor connections to make sure it all works as planned.
 
 # Journal Entry #4: Hind & Javeria 
-### 24 october 20204
+# 24 october 2024
 
 ![WhatsApp Image 2024-10-23 at 10 43 34 PM](https://github.com/user-attachments/assets/51a07a36-cb14-4f25-93be-a06091d3616e)
 
