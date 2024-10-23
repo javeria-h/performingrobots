@@ -72,3 +72,14 @@ Finally, we worked on wiring the motors. We had to unscrew a few things to get t
 ![IMG_2122](https://github.com/user-attachments/assets/c6307062-d0f8-4c8d-adc6-d96c9579244f)
 
 Now that everything is secured and wired up, the next step is testing the motor connections to make sure it all works as planned.
+
+# Journal Entry #4: Hind & Javeria 
+### 24 october 20204
+
+![WhatsApp Image 2024-10-23 at 10 43 34 PM](https://github.com/user-attachments/assets/51a07a36-cb14-4f25-93be-a06091d3616e)
+
+So we were thinking that our robot, Miss Scarlet, is going to have OLED eyes that can blink and widen to give her some expression. We’re also planning to add servo motors for her eyebrows so they can raise and lower—this will help her show emotions like surprise or curiosity. The face will probably be made from carton, which is light but sturdy enough to hold everything in place.
+
+We’ll build the skeleton (basically the body) out of wood or another strong but lightweight material to support the motors, wires and battery. She’s going to wear an elaborate red party dress to give her a grand, stylish look. For the arms, we’ll use servo motors at the shoulders to give her some movement and the hands will be made from rubber gloves stuffed with cotton balls to keep them soft and flexible.
+
+For that extra dramatic flair, we want her to hold a fan. So, for the fan mechanism, we’re planning to place a small motor in the wrist that will control the opening and closing of the fan, adding some cool movement and interaction to her character.
