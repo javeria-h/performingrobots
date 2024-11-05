@@ -85,12 +85,12 @@ We’ll build the skeleton (basically the body) out of wood or another strong bu
 For that extra dramatic flair, we want her to hold a fan. So, for the fan mechanism, we’re planning to place a small motor in the wrist that will control the opening and closing of the fan, adding some cool movement and interaction to her character.
 
 # Journal Entry #5: Hind & Javeria 
-Available in Hind's Journal
+Available in Hind's Journal: https://github.com/hindahhmed/Performing-Robots/blob/main/Journal.md
 
 # Journal Entry #6: Hind & Javeria 
 # 31 October & 4 November 2024
 
-This week, we continued working on our robot's skeletal structure, focusing on building the shoulders and arms. Additionally, we began constructing the fan and soldering the nRF Servo Mega Shield to attach it to our Arduino Mega.
+This week, we continued working on our robot's skeletal structure, focusing on building the shoulders and arms. Additionally, we soldered the nRF Servo Mega Shield to attached it to our Arduino Mega.
 
 First, we prepared the shoulder structure by cutting a piece of wood, approximately 70 cm long and 2 cm wide, which we used as the shoulder base. We then moved on to the arms, cutting two pieces of wood, each around 50 cm in length. One of these arms was designated as the non-movable arm, which we attached to the shoulder using a screw after drilling a pilot hole.
 
@@ -107,6 +107,3 @@ Finally, we attached the entire shoulder structure, including both arms, to the 
 After constructing the basic skeletal frame, we proceeded to solder the nRF Servo Mega Shield, following the provided instructions carefully. Once soldered, we successfully attached the shield to the Arduino Mega. We then attached the servo motor using the servo extensions to our Arduino Mega.
 
 ![IMG_1085](https://github.com/user-attachments/assets/6dffccc1-c8b0-4397-b404-6b0b8e6f71e4)
-
-
-We also started working on the fan assembly. Although we haven't completed much, we did cut two thin pieces of wood, each approximately 15 cm in length, to form the frame ends of the fan. After preparing these frame pieces, we attached servos to each one. These servos will later enable the fan's movement i.e the opening and closing.
