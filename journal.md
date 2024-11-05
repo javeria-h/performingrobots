@@ -96,14 +96,17 @@ First, we prepared the shoulder structure by cutting a piece of wood, approximat
 
 Next, we worked on the movable arm, which will ultimately hold the fan, allowing the robot to fan itself. To assemble this arm, we used a square piece of wood as the shoulder joint, onto which we mounted a metal bracket to support the large servo motor. We began by drilling four pilot holes in the bracket and then secured it with screws to ensure a firm attachment. Following this, we drilled four holes in one end of the arm and attached the motor's circular component to it. After securing this component with screws, we connected it to the servo motor. 
 
-![IMG_1062](https://github.com/user-attachments/assets/7b7758f0-aba9-4366-a7c4-3fa80389c03f)
+![IMG_1062](https://github.com/user-attachments/assets/0e3417ae-e827-4650-a14a-210c7ff2c18d)
 
-![IMG_1064](https://github.com/user-attachments/assets/a2ecb772-0a05-4bfb-a8d5-4ead0d02f32e)
+![IMG_1064](https://github.com/user-attachments/assets/3345ab9b-9547-4b8a-a287-e00e91408b42)
 
 Finally, we attached the entire shoulder structure, including both arms, to the robot’s spine using a large bolt for stability.
 
-![IMG_1063](https://github.com/user-attachments/assets/621406ce-44bd-428c-acac-cf890603a15a)
+![IMG_1063](https://github.com/user-attachments/assets/7025f84d-fdcd-4ca4-9493-dac77999c733)
 
-After constructing the basic skeletal frame, we proceeded to solder the nRF Servo Mega Shield, following the provided instructions carefully. Once soldered, we successfully attached the shield to the Arduino Mega.
+After constructing the basic skeletal frame, we proceeded to solder the nRF Servo Mega Shield, following the provided instructions carefully. Once soldered, we successfully attached the shield to the Arduino Mega. We then attached the servo motor using the servo extensions to our Arduino Mega.
+
+![IMG_1085](https://github.com/user-attachments/assets/6dffccc1-c8b0-4397-b404-6b0b8e6f71e4)
+
 
 We also started working on the fan assembly. Although we haven't completed much, we did cut two thin pieces of wood, each approximately 15 cm in length, to form the frame ends of the fan. After preparing these frame pieces, we attached servos to each one. These servos will later enable the fan's movement i.e the opening and closing.
