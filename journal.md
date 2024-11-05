@@ -74,7 +74,7 @@ Finally, we worked on wiring the motors. We had to unscrew a few things to get t
 Now that everything is secured and wired up, the next step is testing the motor connections to make sure it all works as planned.
 
 # Journal Entry #4: Hind & Javeria 
-# 24 october 2024
+# 24 October 2024
 
 ![WhatsApp Image 2024-10-23 at 10 43 34 PM](https://github.com/user-attachments/assets/51a07a36-cb14-4f25-93be-a06091d3616e)
 
@@ -83,3 +83,27 @@ So we were thinking that our robot, Miss Scarlet, is going to have OLED eyes tha
 We’ll build the skeleton (basically the body) out of wood or another strong but lightweight material to support the motors, wires and battery. She’s going to wear an elaborate red party dress to give her a grand, stylish look. For the arms, we’ll use servo motors at the shoulders to give her some movement and the hands will be made from rubber gloves stuffed with cotton balls to keep them soft and flexible.
 
 For that extra dramatic flair, we want her to hold a fan. So, for the fan mechanism, we’re planning to place a small motor in the wrist that will control the opening and closing of the fan, adding some cool movement and interaction to her character.
+
+# Journal Entry #5: Hind & Javeria 
+Available in Hind's Journal
+
+# Journal Entry #6: Hind & Javeria 
+# 31 October & 4 November 2024
+
+This week, we continued working on our robot's skeletal structure, focusing on building the shoulders and arms. Additionally, we began constructing the fan and soldering the nRF Servo Mega Shield to attach it to our Arduino Mega.
+
+First, we prepared the shoulder structure by cutting a piece of wood, approximately 70 cm long and 2 cm wide, which we used as the shoulder base. We then moved on to the arms, cutting two pieces of wood, each around 50 cm in length. One of these arms was designated as the non-movable arm, which we attached to the shoulder using a screw after drilling a pilot hole.
+
+Next, we worked on the movable arm, which will ultimately hold the fan, allowing the robot to fan itself. To assemble this arm, we used a square piece of wood as the shoulder joint, onto which we mounted a metal bracket to support the large servo motor. We began by drilling four pilot holes in the bracket and then secured it with screws to ensure a firm attachment. Following this, we drilled four holes in one end of the arm and attached the motor's circular component to it. After securing this component with screws, we connected it to the servo motor. 
+
+![IMG_1062](https://github.com/user-attachments/assets/7b7758f0-aba9-4366-a7c4-3fa80389c03f)
+
+![IMG_1064](https://github.com/user-attachments/assets/a2ecb772-0a05-4bfb-a8d5-4ead0d02f32e)
+
+Finally, we attached the entire shoulder structure, including both arms, to the robot’s spine using a large bolt for stability.
+
+![IMG_1063](https://github.com/user-attachments/assets/621406ce-44bd-428c-acac-cf890603a15a)
+
+After constructing the basic skeletal frame, we proceeded to solder the nRF Servo Mega Shield, following the provided instructions carefully. Once soldered, we successfully attached the shield to the Arduino Mega.
+
+We also started working on the fan assembly. Although we haven't completed much, we did cut two thin pieces of wood, each approximately 15 cm in length, to form the frame ends of the fan. After preparing these frame pieces, we attached servos to each one. These servos will later enable the fan's movement i.e the opening and closing.
